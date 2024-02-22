@@ -1,0 +1,115 @@
+h1 {
+	font-family: "arial";
+	font-size: 25px;
+	letter-spacing: 10.2rem;
+	text-align: center;
+	color: darkred;
+}
+
+
+
+h2 {
+	font-family: "arial";
+	font-size: 15px;
+	letter-spacing: 0.76rem;
+	text-align: center;
+	color: darkred;
+}
+
+body {
+	background-color: white;
+	font-family: "arial";
+	font-size: 12px;
+	letter-spacing: .2rem;
+	color: darkred;
+	text-align: center;
+	align-content: center;
+	background-repeat: no-repeat;
+}
+
+p{
+	align-content: center;
+	text-decoration: none;
+}
+
+a 
+{
+	text-decoration: none;
+  font-family: "arial";
+	font-size: 13px;
+	letter-spacing: .2rem;
+	color: inherit;
+
+}
+
+img{
+	align-content: center;
+}
+
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+
+
+a:hover {
+	color: black;
+	text-decoration: overline dotted;
+}
+
+table {
+	text-decoration: special;
+	text-align: right;
+	font-size: 15px;
+	border-spacing: 5px;
+	color: darkred;
+}
+
+td {
+	position: static;
+	text-align: right;
+	align-content: center;
+	vertical-align: center;
+	font-family: "arial";
+	padding: 3px;
+	color:darkred;
+}
+	
+td:hover {
+	font-weight: bold;
+	text-decoration: ;
+
+}
+table1 {
+	text-align: center;
+	font-size: 15px;
+	border-spacing: 5px;
+	border-color: green;
+	align-content: center;
+	color: darkred;
+}
+
+te {
+	border: 1px;
+	border-color: green;
+	align-content: center;
+	padding: 0px;
+	text-align: center;
+	position: static;
+}
+
+te:hover {
+	text-emphasis-color: black;
+	text-decoration: underline dotted;
+}
+
+place {
+	margin-top: 100px;
+}
+
+
+	
